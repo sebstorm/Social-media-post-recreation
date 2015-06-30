@@ -1,0 +1,60 @@
+body{
+	background-color: #f5f5f5;
+	margin: auto;
+}
+
+img{
+	border-radius: 50px;
+	height: 30px;
+	width: 30px;
+}
+
+.post{
+	height: 20px;
+	width: 20px;
+}
+
+.row{
+	background-color: #f5f5f5;
+	/*border: solid 2px red;*/
+	padding: 2px;
+
+}
+
+span{
+	color: blue;
+}
+.attr{
+	color: red;
+}
+.number{
+	color: orange;
+}
+
+.back{
+	background-color: white;
+}
+
+.comment{
+	border-radius: 20px;
+	color: #2889db;
+	border-color: #2889db;
+	padding: 3px;
+
+}
+
+p{
+	padding: 5px;
+}
+
+.likes{
+	color: green;
+}
+
+.see{
+	color: yellow;
+}
+.view_post{
+	padding: 5px;
+}
+
